@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hynek/svcs/commit/9a034ff4cc228241c0a759f05cc4bcd9439311db",
       "git:hexsha": "9a034ff4cc228241c0a759f05cc4bcd9439311db",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hynek/svcs/commit/09f6f05877a4409833bff9a0226dfb4dd09b7e90",
