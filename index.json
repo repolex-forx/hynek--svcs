@@ -1,0 +1,11 @@
+{
+  "org": "hynek",
+  "repo": "svcs",
+  "versions": [
+    {
+      "commit": "9a034ff4cc228241c0a759f05cc4bcd9439311db",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:28:55.003039+00:00"
+    }
+  ]
+}
